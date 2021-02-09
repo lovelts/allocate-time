@@ -1,0 +1,22 @@
+{
+  "name": "allocate-time",
+  "version": "1.0.0",
+  "description": "it used to obtain data information of time node and time period",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovelts/allocate-time.git"
+  },
+  "keywords": [
+    "用于处理时间"
+  ],
+  "author": "lts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lovelts/allocate-time/issues"
+  },
+  "homepage": "https://github.com/lovelts/allocate-time#readme"
+}
