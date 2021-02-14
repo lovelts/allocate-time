@@ -1,6 +1,6 @@
 {
   "name": "allocate-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "it used to obtain data information of time node and time period",
   "main": "index.js",
   "scripts": {
